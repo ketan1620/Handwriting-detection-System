@@ -41,7 +41,7 @@ To get this project running on your local machine, follow these steps:
 
 4.  **Run the application:**
     ```bash
-    python main.py
+    python app.py
     ```
 
 ## Usage
@@ -62,12 +62,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 4.  **Push to the Branch** (`git push origin feature/AmazingFeature`)
 5.  **Open a Pull Request**
 
-## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ---
 
 <p align="center">
   <em>Created by Ketan Choudhary</em>
-</p>
+</
